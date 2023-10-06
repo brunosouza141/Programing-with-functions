@@ -13,6 +13,11 @@
     --nav-hover-background-color: #40916C;
 }
 
+main {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1600px;
+}
 body{
     font-family: var(--default-font);
     max-width: 100%;
